@@ -1,5 +1,5 @@
 /*The dots represeent the class attribute*/
-.blue-heading { 
+/*.blue-heading { 
 color: blue
 }
 
@@ -8,10 +8,10 @@ color: green
 }
 
 .cat {
-	margin-left: 500px;
+	margin-left: 50px;
 	margin-top: 50px;
 	width: 450px;
-}
+}*/
 
 .svg {
 	margin-left: 700px;
@@ -22,8 +22,16 @@ color: green
 /*look up chrome.js for colour definitions*/
 .circle {
 	stroke-width: 3px;
-	stroke: #d95f02;
-	fill: #7570b3;
+	stroke: black;
+	/*fill: #7570b3;*/
+}
+
+.label {
+	font-size: 16px;
+}
+
+.checkbox {
+	margin-left: 80px;
 }
 
 body {
